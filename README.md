@@ -5,3 +5,5 @@
 [199](./199.c). [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 [172](./172.c). [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+
+[147](./147.c). [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
